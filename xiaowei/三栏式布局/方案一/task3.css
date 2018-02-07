@@ -1,0 +1,44 @@
+body {margin: 0px; padding:20px;}
+.article { 
+	background-color: #eee; 
+	padding:20px; 
+	border:2px solid #999; 
+	overflow: hidden;
+	min-height: 340px;
+}
+#icon_team {
+	float: left;
+}
+#name_team {
+	float: left;
+	margin-left: 20px;
+}
+.left {
+	position: absolute; 
+	top:40px; 
+	left:40px; 
+	width:160px; 
+	padding:20px; 
+	border: 2px solid #999;
+	background-color: #fff;
+}
+.right {
+	position: absolute; 
+	top: 40px; 
+	right: 40px; 
+	padding: 20px;
+	padding-bottom: 0px; 
+	width: 80px; 
+	background-color: #fff; 
+	border: 2px solid #999;
+}
+.middle { 
+	margin-left: 220px;
+	margin-right: 140px; 
+	background-color: #fff;
+	border: 2px solid #999;
+	padding:20px;
+	word-break: break-all;
+}
+.logo {width:80px; height: 80px; margin-bottom: 20px;}
+.left img {width:80px; height: 80px;}
