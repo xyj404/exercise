@@ -1,0 +1,6 @@
+body {margin:0px; padding:0px; background-color: #aaa;}
+#newspaper {padding-right: 44px; padding-left: 44px; width: 892px; height: 1386px; border: 1px solid #aaa; margin:0 auto; background-color: #fff;}
+.col {display: inline-block; width: 200px; margin-right: 20px; }
+.tit {font:16px '微软雅黑'; text-decoration: underline;}
+.article {font:12px '宋体'; line-height: 16px; opacity: 0.7;}
+li {margin:20px;}
