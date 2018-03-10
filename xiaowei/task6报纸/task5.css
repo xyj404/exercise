@@ -4,3 +4,4 @@ body {margin:0px; padding:0px; background-color: #aaa;}
 .tit {font:16px '微软雅黑'; text-decoration: underline;}
 .article {font:12px '宋体'; line-height: 16px; opacity: 0.7;}
 li {margin:20px;}
+#tet{border-left: 3px solid #72b16a;  }

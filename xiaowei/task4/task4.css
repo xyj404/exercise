@@ -9,7 +9,7 @@ body {background-color: #aaa; padding: 0px; margin: 0px;}
 
 
 #wrap {float: left; width: 100%;}
-.article {overflow: hidden; background-color: #fff;padding:20px; margin-left: 30px; margin-right: 830px; margin-top:30px; line-height: 29px; box-shadow: 5px 5px 5px #444;}
+.article {overflow: hidden;	 background-color: #fff;padding:20px; margin-left: 30px; margin-right: 830px; margin-top:30px; line-height: 29px; box-shadow: 5px 5px 5px #444;}
 .article h2 {font-size:31px;}
 .article h3 {font-size:25px;}
 .image {float: left; margin-left: 60px; width:150px; height: 220px; border: 1px solid #999; padding:15px; margin-top:20px;}
