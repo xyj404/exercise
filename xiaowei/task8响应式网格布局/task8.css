@@ -1,0 +1,10 @@
+body{margin:0px; padding:0px;}
+[class *= 'col-'] {
+	padding:10px;
+	
+}
+.col {
+	border:1px solid #999;
+	background-color: #eee;
+	height:50px;
+}
