@@ -1,0 +1,34 @@
+body {
+	margin:0px;
+	display: flex;
+	display: -webkit-flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+body div {
+	width: 150px;
+	border: 1px solid #f00;
+}
+#part1 {
+	height: 120px;
+}
+#part2 {
+	height: 100px;
+}
+#part3 {
+	height: 40px;
+}
+#part4 {
+	height: 200px;
+	border-color: #00f;
+}
+/*媒体查询实现宽度改变时属性变化*/
+@media screen and (max-width: 640px){
+	#part4 {
+		order: -1;    /*flex项目属性，越小越靠前*/
+	}
+	body {
+		align-items: flex-start;
+	}
+}
